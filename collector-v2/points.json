@@ -1,0 +1,41 @@
+{
+  "flow_points": [
+    {
+      "name": "av_pedro_aguirre_cerda",
+      "lat": -23.6509,
+      "lon": -70.3975
+    },
+    {
+      "name": "ruta_5_norte_entrada",
+      "lat": -23.5980,
+      "lon": -70.3891
+    }
+  ],
+
+  "incidents_bboxes": [
+    {
+      "name": "antofagasta_centro",
+      "min_lat": -23.6800,
+      "min_lon": -70.4200,
+      "max_lat": -23.6200,
+      "max_lon": -70.3600
+    },
+    {
+      "name": "antofagasta_norte",
+      "min_lat": -23.6200,
+      "min_lon": -70.4100,
+      "max_lat": -23.5500,
+      "max_lon": -70.3500
+    }
+  ],
+
+  "routes": [
+    {
+      "name": "ruta_ejemplo_od",
+      "origin_lat": -23.6509,
+      "origin_lon": -70.3975,
+      "dest_lat":   -23.5980,
+      "dest_lon":   -70.3891
+    }
+  ]
+}
